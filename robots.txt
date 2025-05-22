@@ -3,4 +3,4 @@ Disallow: /admin
 
 Allow: /sitemap.xml
 
-Sitemap: https://solar-smash.github.io/sitemap.xml
+Sitemap:https://roller-baller.github.io/sitemap.xml
